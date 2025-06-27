@@ -1,5 +1,8 @@
 namespace DesafioProjetoHospedagem.Models;
 
+/// <summary>
+/// Representa hospedes físicos
+/// </summary>
 public class Pessoa
 {
     public Pessoa() { }
